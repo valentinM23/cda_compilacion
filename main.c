@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main (void){
-    prinf("Hola mundo");
+    prinf("Estamos probando un archivo.c");
     return 2;
 }
